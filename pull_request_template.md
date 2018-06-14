@@ -1,5 +1,5 @@
 <!--- Refs: -->
-
+## Doc v1
 ## Proposed changes
 
 Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link to that issue.
@@ -20,6 +20,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] (Nếu có) Tôi đã thực hiện việc thêm/thay đổi data (migrate), đã thực hiện đưa vào branch database.
 - [ ] Tôi đã thực hiện **kiểm tra** và **đảm bảo** rằng tính năng hoặc phần xử lý của mình hoạt động đúng yêu cầu. (I have added tests that prove my fix is effective or that my feature works)
 - [ ] Tôi đã thêm các bình luận trong code hoặc các tài liệu yêu cầu kỹ thuật khác (Trường hợp xử lý phức tạp)
+- [ ] Tôi đã thêm và có thực hiện các hàm (js (global,...), css (global,...), html template) không gắn liền với các yêu cầu kỹ thuật gần như vậy.
 - [ ] Tôi đã thực thi Rspec, Robocop, ... với kết quả **PASS**.
 - [ ] Tôi đã chờ 5 phút hoặc lâu hơn để nhận kết qủa **PASS** CI.
 
