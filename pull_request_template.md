@@ -20,8 +20,8 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] (Nếu có) Tôi đã thực hiện việc thêm/thay đổi data (migrate), đã thực hiện đưa vào branch database.
 - [ ] Tôi đã thực hiện **kiểm tra** và **đảm bảo** rằng tính năng hoặc phần xử lý của mình hoạt động đúng yêu cầu. (I have added tests that prove my fix is effective or that my feature works)
 - [ ] Tôi đã thêm các bình luận trong code hoặc các tài liệu yêu cầu kỹ thuật khác (Trường hợp xử lý phức tạp)
-- [ ] Tôi đã thực thi Rspec, Robocop, ... với kêt quả **PASS**.
-- [ ] Tôi đã chờ 5 phút hoặc lâu hơn để nhận kêt qủa **PASS** CI.
+- [ ] Tôi đã thực thi Rspec, Robocop, ... với kết quả **PASS**.
+- [ ] Tôi đã chờ 5 phút hoặc lâu hơn để nhận kết qủa **PASS** CI.
 
 
 ## Further comments
